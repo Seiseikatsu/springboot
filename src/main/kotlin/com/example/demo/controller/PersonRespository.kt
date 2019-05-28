@@ -1,4 +1,4 @@
-package com.example.demo.rest
+package com.example.demo.controller
 
 import com.example.demo.entity.Person
 import org.springframework.data.repository.PagingAndSortingRepository

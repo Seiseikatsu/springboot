@@ -1,12 +1,11 @@
 package com.example.demo
 
 import com.example.demo.entity.Person
-import com.example.demo.rest.PersonRespository
+import com.example.demo.controller.PersonRespository
 import org.springframework.boot.CommandLineRunner
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 import org.springframework.context.annotation.Bean
-import org.springframework.data.repository.RepositoryDefinition
 
 @SpringBootApplication
 class DemoApplication {
